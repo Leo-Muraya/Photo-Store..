@@ -3,7 +3,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_cors import CORS
 from flask_jwt_extended import JWTManager, create_access_token, jwt_required, get_jwt_identity
 from datetime import timedelta
-from server.models import db, User, Photo, Like 
+from models import db, User, Photo, Like 
 from flask_migrate import Migrate
 from dotenv import load_dotenv
 import os

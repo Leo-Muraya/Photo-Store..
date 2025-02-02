@@ -5,7 +5,7 @@ from app import app, db
 from models import User, Photo, Like
 
 
-fake = Faker()
+faker = Faker()
 
 def rc(collection):
     """Random choice from collection"""
