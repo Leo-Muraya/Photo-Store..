@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes , Route} from "react-router-dom";
 import Layout from "../layout/Layout";
-import HomePage from "./HomePage";
+import HomePage from "./Homepage";
 import LikedPhotos from "./LikedPhotos";
 import SignUp from "./SignUp";
 import PostPhoto from "./PostPhoto";
