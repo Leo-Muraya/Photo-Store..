@@ -110,12 +110,6 @@ Authored by:
 
 -Leo Muraya
 
-## Images of the site
-![Screenshot from 2024-01-26 08-34-03](https://github.com/swarui/Phase-4-Photo-Store-Project/assets/135341074/80eaab6a-f757-4912-b242-ccb09cd342bb)
-![Screenshot from 2024-01-26 08-40-37](https://github.com/swarui/Phase-4-Photo-Store-Project/assets/135341074/5b1d4d1e-e538-403f-929d-e2f6aed5b260)
-![Screenshot from 2024-01-26 08-40-51](https://github.com/swarui/Phase-4-Photo-Store-Project/assets/135341074/47c34237-de1c-4f76-9451-9abdc3a0f118)
-
-
 ## LICENSE
 Copyright <2024> 
 
